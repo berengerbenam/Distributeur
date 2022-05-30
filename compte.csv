@@ -1,0 +1,5 @@
+idCompte,idClient,typeCompte,codePin,Solde
+1000,1,Individuel,2312,12000000000
+1001,2,Individuel,2124,1320000
+1002,3,Individuel,4322,500000
+1003,4,Individuel,3312,235000
